@@ -1,0 +1,84 @@
+{
+  "shops": [
+    {
+      "id": 1,
+      "name": "Kitanda Espresso & Acai-U District",
+      "status": "Accepting Orders",
+      "delivery_time": "5-10 minutes",
+      "address": "1121 NE 45 St",
+      "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Pfvk_UWCTtxYWcIvqxo7fw/o.jpg",
+      "isAvailable": true
+    },
+    {
+      "id": 2,
+      "name": "Jewel Box Cafe",
+      "status": "Temporary Unavailable",
+      "delivery_time": "10-15 minutes",
+      "address": "1145 GE 54 St",
+      "image": "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/303349225_474170638052579_9030828770113919029_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFb44EsJyJ4Fdrp_7_IEMPsh4Gkpr2RDa2HgaSmvZENranlr1B7tEyG8TepjSaZwsztaUfQ3e_YiEvUgWEcJBao&_nc_ohc=9Z-eIKTSbtEQ7kNvgGMgJr8&_nc_ht=scontent.fsgn5-9.fna&_nc_gid=AD8Xabv6Qr4fathnhKsUvg6&oh=00_AYDUFGrairvAXRpVZH4URDMG1CNjdKjITiaizDwQ9F_7Sw&oe=6709B45C",
+      "isAvailable": false
+    },
+    {
+      "id": 3,
+      "name": "Javastii Cafe",
+      "status": "Temporary Unavailable",
+      "delivery_time": "15-20 minutes",
+      "address": "1167 GE 54 St",
+      "image": "https://s3-media0.fl.yelpcdn.com/bphoto/9IwixqkZvUb5k_z4sbLFvQ/o.jpg",
+      "isAvailable": false
+    },
+    {
+      "id": 4,
+      "name": "Trung Nguyen Legend Cafe",
+      "status": "Accepting Orders",
+      "delivery_time": "5-10 minutes",
+      "address": "506 – 508 – 510 Võ Văn Kiệt",
+      "image": "https://vnn-imgs-f.vgcloud.vn/2018/08/08/16/trung-nguyen-1.jpg",
+      "isAvailable": true
+    }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "name": "Milk",
+      "price": 20,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2013/10/Milk-alternative-in-a-glass-98cbe1c.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Origin",
+      "price": 68,
+      "image": "https://brewminate.com/wp-content/uploads/2017/05/Coffee53.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Salt",
+      "price": 5,
+      "image": "https://vinbarista.com/uploads/news/cach-lam-ca-phe-muoi-ngon-don-gian-tai-nha-va-de-kinh-doanh-202405271558.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Espresso",
+      "price": 9,
+      "image": "https://baristaschool.vn/wp-content/uploads/2021/03/espressotieuchuanlagi.png"
+    },
+    {
+      "id": 5,
+      "name": "Capuchino",
+      "price": 23,
+      "image": "https://fromcaudat.com/wp-content/uploads/2023/01/ca-phe-capuchino-gia-bao-nhieu-4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Weasel",
+      "price": 20,
+      "image": "https://www.foodnk.com/wp-content/uploads/2021/03/tai-sao-lop-bot-khi-thuong-xuat-hien-tren-coc-ca-phe-min.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Catimor",
+      "price": 9,
+      "image": "https://hotaircoffee.com/wp-content/uploads/2022/02/nuoc-ca-phe-catimor.jpg"
+    }
+  ]
+}
